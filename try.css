@@ -1,0 +1,113 @@
+@import url('https://fonts.google.com/specimen/Great+Vibes');
+.bgi{
+    background-image:url('ii.jpg');
+    padding: 90px 150px 60px 60px;
+    width:400px;
+    height:260px;
+    margin:0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p1{
+    font-size: xx-small;
+    color: aliceblue;
+}
+.p2{
+    font-size:34px;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.a1,.a2{  
+    text-decoration: none;
+    background-color:transparent;   
+    border-color: white;
+    color:white;
+    border:1px solid white;
+    padding:10px 10px;
+    font-size: xx-small;
+}
+.a2{
+    margin-left: 190px;
+}
+a:hover{background-color:gray;}
+.bg2{
+    background-image:url('img3.jpg');
+    padding: 90px 200px 60px 120px;
+    width:400px;
+    height:260px;
+    margin :0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height:10px;
+}
+.p3{
+    font-size:large;
+    font-family:'Great+Vibes';
+    text-align: center;
+    color:white;
+    font-style: italic;
+}
+.p4{
+    color:white;
+    font-size:35px;
+    word-spacing:1px;
+}
+.p5{
+        color:whitesmoke;
+        text-indent:10px;
+        text-align: center;
+        margin-left: 50px;
+        margin-right: auto;
+        line-height: 20px;
+        width: 100%;
+        font-family:'Times New Roman', Times, serif;
+    }
+    .bg3{
+        padding: 90px 200px 60px 120px;
+        width:400px;
+        height:260px;
+        margin :0 auto;
+        line-height: 3px;
+       
+    }
+    #bg3{
+        font-size: xx-small;
+
+    }
+    .fi{
+       width: 450px;
+       height: 150px;
+       margin-bottom: 15px;
+    }
+    .f2{
+        color:red;
+        text-align:right;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }   
+    .f6{
+        text-align:right;
+    }
+    .fp{
+        margin-bottom: 30px;
+    }
+    .fpl{
+        margin-top: 35px;
+        margin-bottom: 12px;
+        font-weight: 600;
+    }
+    .bg4{
+        background-image: linear-gradient(to right,blue,purple);
+        padding:50px 200px 60px 120px;
+        margin:50px 100px;
+        width:400px;
+        height:200px;
+        margin :0 auto;
+        background-color: aqua,black;
+    }
+    #bg{
+        width:50px;
+        height:100px;
+        background-color:white;
+        border: 1px solid black;
+    }
+   

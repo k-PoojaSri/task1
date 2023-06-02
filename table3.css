@@ -1,0 +1,30 @@
+th{
+    background-color:black;
+    padding:16px;
+    font-size: x-small;
+}
+tr:nth-child(1){background-color: rgb(28, 24, 230);}
+tr:nth-child(2){background-color: greenyellow;}
+tr:nth-child(3){background-color: yellow;}
+tr:nth-child(4){background-color: red;}
+tr:nth-child(5){background-color: rgb(13, 187, 187);}
+.ts{
+    height: 450px;
+    width: 600px;
+    margin: 0 auto ;
+    color:white;
+    border:0px;
+}
+.last{
+    width: 70px;
+}
+
+a{
+    text-decoration:none;
+    
+}
+table,thead,tbody,tr,th,td{
+    border-collapse: collapse;
+    margin: 0 auto;
+    text-align: center;
+}

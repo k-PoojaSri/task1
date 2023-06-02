@@ -1,0 +1,13 @@
+.align{
+    background-color: #e6f6ff;
+    
+}
+.bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height:14rem;
+    width: 100%;
+    background-size: cover;
+    font-size: xx-large;
+    font-style: italic;
+
+}

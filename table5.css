@@ -1,0 +1,11 @@
+table,thead,tbody,tr,td,th{
+    border-collapse: collapse;
+    width:500px;
+    margin: 0 auto;
+}
+thead{
+    text-align: left;
+    background-color: rgb(7, 250, 100);
+    
+}
+tr:nth-child(even){background-color:  rgb(7, 250, 100);;}

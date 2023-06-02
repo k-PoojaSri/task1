@@ -1,0 +1,44 @@
+/*body{
+margin:0;
+padding:0;
+}
+.div1{
+    width: 100%;
+    background-image:url(learn.jpd);
+    background-position: center;
+    background-size: cover;
+    height:109vh;
+    display:flex;
+}
+.div2{
+    width:1200px;
+    height:75px;
+    margin:auto
+}
+.div3{
+    width:200px;
+    float:left;
+    height: 70px;
+}
+.title{
+    color:rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 20px;
+    float: left;
+    padding-bottom: 10px;;
+}
+.option{
+    width:400px;
+    float:right;
+    height:70px;
+    font-weight: bold;
+}
+ul li{
+    display: flex;
+    justify-content:space space-between;
+    color:white;
+    word-spacing: 100px;
+    display:inline;
+    border: 3px solid white;*/
+  

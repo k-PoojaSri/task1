@@ -1,0 +1,25 @@
+.div1{
+    
+    padding:50px 100px 50px 100px; 
+
+
+}
+.th1{
+    background-color: green;
+}
+.th2{
+    background-color: yellow;
+}
+.th3{
+    background-color: blueviolet;
+}
+table{
+ width:600px;
+ 
+ margin:0 auto;
+}
+tr,td,th{
+    border:1px solid black;
+    padding:10px 20px 10px 20px;
+
+}
